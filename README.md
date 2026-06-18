@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ⚡ DEVBEGIE ⚡
+# ⚡ DevBegie ⚡
 
 <img src="devbegie.png" />
 
