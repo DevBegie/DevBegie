@@ -4,7 +4,12 @@
 
 <div align="center">
 
-# ⚡ DevBegie ⚡
+<h1>
+  <img src="./assets/dev-core.svg" width="40" style="position: relative; top: -8px;" />
+  DevBegie
+  <img src="./assets/dev-core.svg" width="40" style="position: relative; top: -8px;" />
+</h1>
+
 
 <img src="devbegie.png" />
 
